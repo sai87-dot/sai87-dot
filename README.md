@@ -1,4 +1,4 @@
- 👋 Hi, I am sai bheemavarapu 
+ 👋 Hi, I am data sceince aspirant
 - 👀 I’m interested in ... Data releated work 
 - 🌱 I’m currently learning ... data sceince 
 - 💞️ I’m looking to collaborate on ...
